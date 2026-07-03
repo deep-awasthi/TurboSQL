@@ -1,0 +1,4 @@
+com/turbosql/application/SqlAnalysisServiceTest.class
+com/turbosql/domain/service/SqlParserTest.class
+com/turbosql/domain/service/SqlLexerTest.class
+com/turbosql/api/SqlAnalysisControllerTest.class
